@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.stay4it.testflowlayout.MainActivity">
+
+    <com.stay4it.testflowlayout.MyFlowLayout
+        android:id="@+id/flowlayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="15dp"
+        android:background="#F0F0F0"
+       >
+    </com.stay4it.testflowlayout.MyFlowLayout>
+    <ImageView
+        android:id="@+id/imageView"
+        android:src="@drawable/ww"
+        android:scaleType="centerInside"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+</LinearLayout>

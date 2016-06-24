@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\yy\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\logging-interceptor\3.3.1\99ce730034c6f5aaed710d1e0e9df95e8714ed5f\logging-interceptor-3.3.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="99ce730034c6f5aaed710d1e0e9df95e8714ed5f">
+        <dex dex="D:\projects\Demos\TestRxJavaAndRetrofit\build\intermediates\pre-dexed\debug\logging-interceptor-3.3.1_d36e9241cc5ec24e35beaac93110ba9791647d82.jar" />
+    </item>
+    <item
+        jar="D:\projects\Demos\TestRxJavaAndRetrofit\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="D:\projects\Demos\TestRxJavaAndRetrofit\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_c5cb1240c74b34121aa9f8c30a4fc8dc7c01caff.jar" />
+    </item>
+    <item
+        jar="D:\projects\Demos\TestRxJavaAndRetrofit\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ac2f741a929c3f90a48509a231b4b8e8ec8c88c5">
+        <dex dex="D:\projects\Demos\TestRxJavaAndRetrofit\build\intermediates\pre-dexed\debug\instant-run_b82e33d37511adb4c9dc52e71ec046fabe19f16e.jar" />
+    </item>
+    <item
+        jar="D:\android-sdks\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="D:\projects\Demos\TestRxJavaAndRetrofit\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_ab4e3a0599d6bdf52c8f283657b979e5ecad7acb.jar" />
+    </item>
+    <item
+        jar="C:\Users\yy\.gradle\caches\modules-2\files-2.1\com.alibaba\fastjson\1.1.50.android\4f76b23b6b566cd94913c818d1f849cca5d08481\fastjson-1.1.50.android.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4f76b23b6b566cd94913c818d1f849cca5d08481">
+        <dex dex="D:\projects\Demos\TestRxJavaAndRetrofit\build\intermediates\pre-dexed\debug\fastjson-1.1.50.android_47ef814f7550e4f6590c99de4dba32d5f2648adf.jar" />
+    </item>
+    <item
+        jar="D:\projects\Demos\TestRxJavaAndRetrofit\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="eeea46a99ba7fe4663e318562268c6fce4c17f0e">
+        <dex dex="D:\projects\Demos\TestRxJavaAndRetrofit\build\intermediates\pre-dexed\debug\instant-run-bootstrap_f58cec765eed389ab3a10113c8ca326a44419cf7.jar" />
+    </item>
+    <item
+        jar="D:\projects\Demos\TestRxJavaAndRetrofit\build\intermediates\exploded-aar\io.reactivex\rxandroid\1.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="927e8ef5711b115b65b2f35495d77352be2b3c09">
+        <dex dex="D:\projects\Demos\TestRxJavaAndRetrofit\build\intermediates\pre-dexed\debug\io.reactivex-rxandroid-1.2.0_f7d5a6743d4aba7c5a820ea8f0ae942b09a73fb2.jar" />
+    </item>
+    <item
+        jar="C:\Users\yy\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.6.2\f1bc476cc167b18e66c297df599b2377131a8947\gson-2.6.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="D:\projects\Demos\TestRxJavaAndRetrofit\build\intermediates\pre-dexed\debug\gson-2.6.2_60436f5b657de59702efcb3816f3714200b4d69a.jar" />
+    </item>
+    <item
+        jar="C:\Users\yy\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.0.2\43eeae0b9fb087bb3194ba59ab63a38a32fbf3e\retrofit-2.0.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="043eeae0b9fb087bb3194ba59ab63a38a32fbf3e">
+        <dex dex="D:\projects\Demos\TestRxJavaAndRetrofit\build\intermediates\pre-dexed\debug\retrofit-2.0.2_6332f67b283ff3d53bced469af80f4d8c6236ee7.jar" />
+    </item>
+    <item
+        jar="D:\projects\Demos\TestRxJavaAndRetrofit\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="D:\projects\Demos\TestRxJavaAndRetrofit\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_6219d2d905eee0cb9249385762ea70ab9a0325be.jar" />
+    </item>
+    <item
+        jar="D:\projects\Demos\TestRxJavaAndRetrofit\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="D:\projects\Demos\TestRxJavaAndRetrofit\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_1ad43138a41f140075d951406e919e55823ea424.jar" />
+    </item>
+    <item
+        jar="C:\Users\yy\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.1\19047bdb6a4fc00a44124f64ca98e88fc204e7e3\okhttp-3.3.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="19047bdb6a4fc00a44124f64ca98e88fc204e7e3">
+        <dex dex="D:\projects\Demos\TestRxJavaAndRetrofit\build\intermediates\pre-dexed\debug\okhttp-3.3.1_1c3906f1aea3bc85dbd7985087ebb92a012f0d05.jar" />
+    </item>
+    <item
+        jar="C:\Users\yy\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.0.2\f8d87f15b94b8d74e7ccf61d7eedb558811cdb30\converter-gson-2.0.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f8d87f15b94b8d74e7ccf61d7eedb558811cdb30">
+        <dex dex="D:\projects\Demos\TestRxJavaAndRetrofit\build\intermediates\pre-dexed\debug\converter-gson-2.0.2_050afc854c141bd5c94beb5be7cdcb7870e1c891.jar" />
+    </item>
+    <item
+        jar="C:\Users\yy\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.0.1\345b89f45d02d8b09400b472fab7b7e38f4ede1f\butterknife-annotations-8.0.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="345b89f45d02d8b09400b472fab7b7e38f4ede1f">
+        <dex dex="D:\projects\Demos\TestRxJavaAndRetrofit\build\intermediates\pre-dexed\debug\butterknife-annotations-8.0.1_403cdbfe2a34a66febd61d69823f463a5149bf16.jar" />
+    </item>
+    <item
+        jar="D:\projects\Demos\TestRxJavaAndRetrofit\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="D:\projects\Demos\TestRxJavaAndRetrofit\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_2b6f55e21caaac4e8dc21559b5ed77c8e7ccebca.jar" />
+    </item>
+    <item
+        jar="D:\projects\Demos\TestRxJavaAndRetrofit\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="D:\projects\Demos\TestRxJavaAndRetrofit\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_f6b41da196c932dc2679ee8805cef84a49332c6e.jar" />
+    </item>
+    <item
+        jar="C:\Users\yy\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\adapter-rxjava\2.0.2\a60c039ba54c73d1133b72178e1b04133c73d13d\adapter-rxjava-2.0.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a60c039ba54c73d1133b72178e1b04133c73d13d">
+        <dex dex="D:\projects\Demos\TestRxJavaAndRetrofit\build\intermediates\pre-dexed\debug\adapter-rxjava-2.0.2_2d6e2678e868baabc937b822bb2f94dde92f74fb.jar" />
+    </item>
+    <item
+        jar="C:\Users\yy\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="D:\projects\Demos\TestRxJavaAndRetrofit\build\intermediates\pre-dexed\debug\okio-1.8.0_3e94b6a23db30f810560f4e3a840142c1edcad2f.jar" />
+    </item>
+    <item
+        jar="C:\Users\yy\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.1.5\ece7b5d0870e66d8226dab6dcf47a2b12afff061\rxjava-1.1.5.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ece7b5d0870e66d8226dab6dcf47a2b12afff061">
+        <dex dex="D:\projects\Demos\TestRxJavaAndRetrofit\build\intermediates\pre-dexed\debug\rxjava-1.1.5_127dd17581afb37a8884d40c5db8ee048d4543e6.jar" />
+    </item>
+    <item
+        jar="D:\projects\Demos\TestRxJavaAndRetrofit\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="74ca46e7da11e3d065eb64cdbe6568a7ed74c211">
+        <dex dex="D:\projects\Demos\TestRxJavaAndRetrofit\build\intermediates\pre-dexed\debug\com.jakewharton-butterknife-8.0.1_de1d02e340f978405451ba64f6dafa793fad6450.jar" />
+    </item>
+    <item
+        jar="C:\Users\yy\.gradle\caches\modules-2\files-2.1\org.ligboy.retrofit2\converter-fastjson-android\2.0.2\59a51a222e52f462920d42bfa18ff646a978a691\converter-fastjson-android-2.0.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="59a51a222e52f462920d42bfa18ff646a978a691">
+        <dex dex="D:\projects\Demos\TestRxJavaAndRetrofit\build\intermediates\pre-dexed\debug\converter-fastjson-android-2.0.2_cc5c40433a81a6728e3729bf35d79de3f6f3c46e.jar" />
+    </item>
+
+</items>

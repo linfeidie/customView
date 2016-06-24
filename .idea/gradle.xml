@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="D:\android-studio-ide-141.2422023-windows\android-studio\gradle\gradle-2.10" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/TestBitmap" />
+            <option value="$PROJECT_DIR$/TestCollapseView" />
+            <option value="$PROJECT_DIR$/TestCustomLayout" />
+            <option value="$PROJECT_DIR$/TestDraw" />
+            <option value="$PROJECT_DIR$/TestFlowLayout" />
+            <option value="$PROJECT_DIR$/TestLayout" />
+            <option value="$PROJECT_DIR$/TestPathEffect" />
+            <option value="$PROJECT_DIR$/TestRetrofit" />
+            <option value="$PROJECT_DIR$/TestRxJava" />
+            <option value="$PROJECT_DIR$/TestRxJavaAndRetrofit" />
+            <option value="$PROJECT_DIR$/TestShader" />
+            <option value="$PROJECT_DIR$/TestTouch1" />
+            <option value="$PROJECT_DIR$/TestTouch2" />
+            <option value="$PROJECT_DIR$/TestTouch3" />
+            <option value="$PROJECT_DIR$/TestTouch4" />
+            <option value="$PROJECT_DIR$/TestViewDragHelper" />
+            <option value="$PROJECT_DIR$/TextMatrix" />
+            <option value="$PROJECT_DIR$/app" />
+          </set>
+        </option>
+        <option name="myModules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/TestBitmap" />
+            <option value="$PROJECT_DIR$/TestCollapseView" />
+            <option value="$PROJECT_DIR$/TestCustomLayout" />
+            <option value="$PROJECT_DIR$/TestDraw" />
+            <option value="$PROJECT_DIR$/TestFlowLayout" />
+            <option value="$PROJECT_DIR$/TestLayout" />
+            <option value="$PROJECT_DIR$/TestPathEffect" />
+            <option value="$PROJECT_DIR$/TestRetrofit" />
+            <option value="$PROJECT_DIR$/TestRxJava" />
+            <option value="$PROJECT_DIR$/TestRxJavaAndRetrofit" />
+            <option value="$PROJECT_DIR$/TestShader" />
+            <option value="$PROJECT_DIR$/TestTouch1" />
+            <option value="$PROJECT_DIR$/TestTouch2" />
+            <option value="$PROJECT_DIR$/TestTouch3" />
+            <option value="$PROJECT_DIR$/TestTouch4" />
+            <option value="$PROJECT_DIR$/TestViewDragHelper" />
+            <option value="$PROJECT_DIR$/TextMatrix" />
+            <option value="$PROJECT_DIR$/app" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

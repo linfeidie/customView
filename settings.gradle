@@ -1,0 +1,1 @@
+include ':app', ':TestDraw', ':TestLayout', ':TestBitmap', ':TextMatrix', ':TestShader', ':TestPathEffect', ':TestFlowLayout', ':TestCustomLayout', ':TestCollapseView', ':TestTouch1', ':TestTouch2', ':TestTouch3', ':TestTouch4', ':TestViewDragHelper', ':TestRetrofit', ':TestRxJava', ':TestRxJavaAndRetrofit'

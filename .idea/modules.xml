@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Demos.iml" filepath="$PROJECT_DIR$/Demos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestBitmap/TestBitmap.iml" filepath="$PROJECT_DIR$/TestBitmap/TestBitmap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestCollapseView/TestCollapseView.iml" filepath="$PROJECT_DIR$/TestCollapseView/TestCollapseView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestCustomLayout/TestCustomLayout.iml" filepath="$PROJECT_DIR$/TestCustomLayout/TestCustomLayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestDraw/TestDraw.iml" filepath="$PROJECT_DIR$/TestDraw/TestDraw.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestFlowLayout/TestFlowLayout.iml" filepath="$PROJECT_DIR$/TestFlowLayout/TestFlowLayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestLayout/TestLayout.iml" filepath="$PROJECT_DIR$/TestLayout/TestLayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestPathEffect/TestPathEffect.iml" filepath="$PROJECT_DIR$/TestPathEffect/TestPathEffect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestRetrofit/TestRetrofit.iml" filepath="$PROJECT_DIR$/TestRetrofit/TestRetrofit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestRxJava/TestRxJava.iml" filepath="$PROJECT_DIR$/TestRxJava/TestRxJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestRxJavaAndRetrofit/TestRxJavaAndRetrofit.iml" filepath="$PROJECT_DIR$/TestRxJavaAndRetrofit/TestRxJavaAndRetrofit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestShader/TestShader.iml" filepath="$PROJECT_DIR$/TestShader/TestShader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestTouch1/TestTouch1.iml" filepath="$PROJECT_DIR$/TestTouch1/TestTouch1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestTouch2/TestTouch2.iml" filepath="$PROJECT_DIR$/TestTouch2/TestTouch2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestTouch3/TestTouch3.iml" filepath="$PROJECT_DIR$/TestTouch3/TestTouch3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestTouch4/TestTouch4.iml" filepath="$PROJECT_DIR$/TestTouch4/TestTouch4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestViewDragHelper/TestViewDragHelper.iml" filepath="$PROJECT_DIR$/TestViewDragHelper/TestViewDragHelper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TextMatrix/TextMatrix.iml" filepath="$PROJECT_DIR$/TextMatrix/TextMatrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>

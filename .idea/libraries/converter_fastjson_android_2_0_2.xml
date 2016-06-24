@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="converter-fastjson-android-2.0.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ligboy.retrofit2/converter-fastjson-android/2.0.2/59a51a222e52f462920d42bfa18ff646a978a691/converter-fastjson-android-2.0.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ligboy.retrofit2/converter-fastjson-android/2.0.2/929fd68d97e07b260ffcbf6e152c10096732f962/converter-fastjson-android-2.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
